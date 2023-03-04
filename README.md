@@ -5,8 +5,7 @@
 I am a passionate Front End Web Developer. I love to create different types of websites with 100% client satisfaction. Specially I enjoy working with React JS.
 
 Skills: REACT / JS / JQUERY / HTML / CSS /BOOTSTRAP
-
-- 🔭 I’m currently working on   
+ 
 - 🌱 I’m currently learning JavaScript 
 
 
