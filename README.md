@@ -8,6 +8,8 @@ Skills: REACT / JS / JQUERY / HTML / CSS /BOOTSTRAP
  
 - 🌱 I’m currently learning JavaScript 
 
+![Profile views](https://gpvc.arturio.dev/AbrarulRhythm)  
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbrarulRhythm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/AbrarulRhythm1991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abrarulrhythm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbrarulRhythm)  
 
@@ -17,4 +19,4 @@ Skills: REACT / JS / JQUERY / HTML / CSS /BOOTSTRAP
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbrarulRhythm)  
 
-![Profile views](https://gpvc.arturio.dev/AbrarulRhythm)  
+
