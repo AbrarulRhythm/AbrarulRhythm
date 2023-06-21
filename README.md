@@ -19,10 +19,4 @@ Skills: REACT / JS / JQUERY / HTML / CSS / BOOTSTRAP / Tailwindcss
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbrarulRhythm)  
 
-<style>
- h1{
-  color:red;
- }
-</style>
-
 
