@@ -14,9 +14,9 @@ Skills: REACT / JS / JQUERY / HTML / CSS / BOOTSTRAP / Tailwindcss
 
 
 [<img src='http://fmv.x10.mx/github/images/g.png' alt='github' height='40'>](https://github.com/AbrarulRhythm) &nbsp;
-[<img src='http://fmv.x10.mx/github/images/fb.png' alt='facebook' height='40'>](https://facebook.com/AbrarulRhythm1991)
-[<img src='http://fmv.x10.mx/github/images/t.png' alt='twitter' height='40'>](https://twitter.com/AbrarulRhythm) 
-[<img src='http://fmv.x10.mx/github/images/i.png' alt='instagram' height='40'>](https://www.instagram.com/abrarulrhythm/)
+[<img src='http://fmv.x10.mx/github/images/fb.png' alt='facebook' height='40'>](https://facebook.com/AbrarulRhythm1991) &nbsp;
+[<img src='http://fmv.x10.mx/github/images/t.png' alt='twitter' height='40'>](https://twitter.com/AbrarulRhythm) &nbsp;
+[<img src='http://fmv.x10.mx/github/images/i.png' alt='instagram' height='40'>](https://www.instagram.com/abrarulrhythm/) &nbsp;
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarulRhythm)](https://github.com/anuraghazra/github-readme-stats)
