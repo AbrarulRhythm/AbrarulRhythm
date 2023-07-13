@@ -7,7 +7,8 @@ I am a passionate Front End Web Developer. I love to create different types of w
 Skills: REACT / JS / JQUERY / HTML / CSS / BOOTSTRAP / Tailwindcss
  
 - 🌱 I’m currently learning JavaScript 
-- 🔭 [I’m currently working with Mountain Climbers Star](https://mountainclimbersstar.com/)
+- 💼 [I’m working at Mountain Climbers Star](https://mountainclimbersstar.com/)
+- 💎 Coming soon our new theme
  
 
 
