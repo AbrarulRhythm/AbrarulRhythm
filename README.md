@@ -14,7 +14,7 @@ Skills: REACT / JS / JQUERY / HTML / CSS / BOOTSTRAP / Tailwindcss
 
 
 [<img src='http://fmv.x10.mx/github/images/g.png' alt='github' height='45'>](https://github.com/AbrarulRhythm)
-<b></b> <b></b> <b></b> <b></b>
+##
 [<img src='http://fmv.x10.mx/github/images/fb.png' alt='facebook' height='45'>](www.facebook.com/AbrarulRhythm1991)
 <i></i>
 [<img src='http://fmv.x10.mx/github/images/t.png' alt='twitter' height='45'>](https://twitter.com/AbrarulRhythm) 
