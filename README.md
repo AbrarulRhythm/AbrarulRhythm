@@ -13,10 +13,13 @@ Skills: REACT / JS / JQUERY / HTML / CSS / BOOTSTRAP / Tailwindcss
 
 
 
-[<img src='http://fmv.x10.mx/github/images/g.png' alt='github' height='50'>](https://github.com/AbrarulRhythm)
-[<img src='http://fmv.x10.mx/github/images/fb.png' alt='facebook' height='50'>](www.facebook.com/AbrarulRhythm1991)
-[<img src='http://fmv.x10.mx/github/images/t.png' alt='twitter' height='50'>](https://twitter.com/AbrarulRhythm) 
-[<img src='http://fmv.x10.mx/github/images/i.png' alt='instagram' height='50'>](https://www.instagram.com/abrarulrhythm/)
+[<img src='http://fmv.x10.mx/github/images/g.png' alt='github' height='45'>](https://github.com/AbrarulRhythm)
+<i></i>
+[<img src='http://fmv.x10.mx/github/images/fb.png' alt='facebook' height='45'>](www.facebook.com/AbrarulRhythm1991)
+<i></i>
+[<img src='http://fmv.x10.mx/github/images/t.png' alt='twitter' height='45'>](https://twitter.com/AbrarulRhythm) 
+<i></i>
+[<img src='http://fmv.x10.mx/github/images/i.png' alt='instagram' height='45'>](https://www.instagram.com/abrarulrhythm/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarulRhythm)](https://github.com/anuraghazra/github-readme-stats)
