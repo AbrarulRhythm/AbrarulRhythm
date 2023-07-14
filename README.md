@@ -22,7 +22,6 @@ I am a passionate Front End Web Developer. I love to create different types of w
 [<img src='http://fmv.x10.mx/github/images/figma.png' alt='Figma' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 
 <br>
-<br>
 
 - 🌱 I’m currently learning JavaScript 
 - 💼 [I’m working at Mountain Climbers Star](https://mountainclimbersstar.com/)
@@ -35,7 +34,6 @@ I am a passionate Front End Web Developer. I love to create different types of w
 [<img src='http://fmv.x10.mx/github/images/t.png' alt='twitter' height='40'>](https://twitter.com/AbrarulRhythm) &nbsp; &nbsp;
 [<img src='http://fmv.x10.mx/github/images/i.png' alt='instagram' height='40'>](https://www.instagram.com/abrarulrhythm/) &nbsp; &nbsp;
 
-<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarulRhythm)](https://github.com/anuraghazra/github-readme-stats)
