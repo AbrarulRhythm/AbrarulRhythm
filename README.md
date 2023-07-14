@@ -17,8 +17,6 @@ I am a passionate Front End Web Developer. I love to create different types of w
 [<img src='http://fmv.x10.mx/github/images/php.png' alt='PHP' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 [<img src='http://fmv.x10.mx/github/images/mysql.png' alt='MySql' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 
-<br>
-
 #### Other Skill
 
 [<img src='http://fmv.x10.mx/github/images/figma.png' alt='Figma' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
