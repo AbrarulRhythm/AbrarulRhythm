@@ -5,7 +5,21 @@
 I am a passionate Front End Web Developer. I love to create different types of websites with 100% client satisfaction. Specially I enjoy working with React JS.
 
 ###  My Skills
-[<img src='http://fmv.x10.mx/skills/images/html.png' alt='github' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/html.png' alt='HTML' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/css.png' alt='CSS' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/bootstrap.png' alt='Bootstrap' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/tailwind.png' alt='Tailwind' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/sass.png' alt='SASS' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/js.png' alt='Javascript' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/ts.png' alt='TypeScript' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/json.png' alt='JSON' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/react.png' alt='React JS' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/php.png' alt='PHP' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/mysql.png' alt='MySql' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+
+<br>
+## Other Skill
+[<img src='http://fmv.x10.mx/github/images/figma.png' alt='Figma' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 
 <br>
 <br>
