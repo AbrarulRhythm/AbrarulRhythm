@@ -15,7 +15,6 @@ I am a passionate Front End Web Developer. I love to create different types of w
 - 💎 Coming soon our new theme
 
  <br>
- <br>
 
 [<img src='http://fmv.x10.mx/github/images/g.png' alt='github' height='40'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 [<img src='http://fmv.x10.mx/github/images/fb.png' alt='facebook' height='40'>](https://facebook.com/AbrarulRhythm1991) &nbsp; &nbsp;
