@@ -4,7 +4,8 @@
 
 I am a passionate Front End Web Developer. I love to create different types of websites with 100% client satisfaction. Specially I enjoy working with React JS.
 
-Skills: REACT / JS / JQUERY / HTML / CSS / BOOTSTRAP / Tailwindcss
+###  My Skills
+[<img src='http://fmv.x10.mx/skills/images/html.png' alt='github' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
  
 - 🌱 I’m currently learning JavaScript 
 - 💼 [I’m working at Mountain Climbers Star](https://mountainclimbersstar.com/)
