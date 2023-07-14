@@ -19,7 +19,7 @@ I am a passionate Front End Web Developer. I love to create different types of w
 
 <br>
 
-## Other Skill
+#### Other Skill
 
 [<img src='http://fmv.x10.mx/github/images/figma.png' alt='Figma' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 
