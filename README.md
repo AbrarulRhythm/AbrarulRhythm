@@ -5,7 +5,7 @@
 I am a passionate Front End Web Developer. I love to create different types of websites with 100% client satisfaction. Specially I enjoy working with React JS.
 
 ###  My Skills
-[<img src='http://fmv.x10.mx/github/images/html.png' alt='HTML' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
+[<img src='http://fmv.x10.mx/github/images/html.png' alt='HTML' height='50'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 [<img src='http://fmv.x10.mx/github/images/css.png' alt='CSS' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 [<img src='http://fmv.x10.mx/github/images/bootstrap.png' alt='Bootstrap' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
 [<img src='http://fmv.x10.mx/github/images/tailwind.png' alt='Tailwind' height='45'>](https://github.com/AbrarulRhythm) &nbsp; &nbsp;
