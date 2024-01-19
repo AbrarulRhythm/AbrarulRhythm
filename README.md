@@ -25,7 +25,7 @@ I am a passionate Front End Web Developer. I love to create different types of w
 
 - 🌱 I’m currently learning JavaScript 
 - 💼 [I’m working at Mountain Climbers Star](https://mountainclimbersstar.com/)
-- 💎 Coming soon our new theme
+- 💎 [View our first premium theme](https://mountainclimbersstar.com/demo/html/agkn/)
 
  <br>
 
