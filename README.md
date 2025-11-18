@@ -59,9 +59,10 @@ I work with the MERN stack to develop full-stack web applications that are both 
 <a href="https://discord.gg/AbrarulRhythm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AbrarulRhythm" height="30" width="40" /></a>
 </p>
 
-<h2>GITHUB STATISTICS</h2>
+<h2>GITHUB STATA</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarulrhythm&show_icons=true&locale=en&layout=compact" alt="abrarulrhythm" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarulrhythm&show_icons=true&locale=en" alt="abrarulrhythm" /></p>
+| Top Languages | GitHub Stats |
+|:---:|:---:|
+|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarulrhythm&show_icons=true&locale=en&layout=compact" alt="abrarulrhythm" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarulrhythm&show_icons=true&locale=en" alt="abrarulrhythm" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarulrhythm&label=Profile%20views&color=0e75b6&style=flat" alt="abrarulrhythm" /> </p>
