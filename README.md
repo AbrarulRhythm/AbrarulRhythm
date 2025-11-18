@@ -1,3 +1,5 @@
+<img width="1834" height="938" alt="Image" src="https://github.com/user-attachments/assets/17c379bc-4b22-4cd5-ad43-9f36161c5c4e" />
+
 <h1 align="center">Hi 👋, I'm Abrarul Rhythm</h1>
 <h3 align="center">MERN stack enthusiast | Building user-friendly full-stack apps.</h3>
 
@@ -22,6 +24,7 @@ I work with the MERN stack to develop full-stack web applications that are both 
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 
 <h3 align="left">Database & Model:</h3>
 
@@ -58,6 +61,7 @@ I work with the MERN stack to develop full-stack web applications that are both 
 
 <h2>GITHUB STATISTICS</h2>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarulrhythm&show_icons=true&locale=en&layout=compact" alt="abrarulrhythm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarulrhythm&show_icons=true&locale=en" alt="abrarulrhythm" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarulrhythm&label=Profile%20views&color=0e75b6&style=flat" alt="abrarulrhythm" /> </p>
