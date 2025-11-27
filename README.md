@@ -58,6 +58,7 @@ I work with the MERN stack to develop full-stack web applications that are both 
 <a href="https://twitter.com/abrarulrhythm" target="blank"><img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/ef7a29f5-02a1-4c9d-8709-bd37a32c6b40" /></a>
 <a href="https://instagram.com/abrarulrhythm" target="blank"><img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/ac36510a-60f9-4cf1-8454-e31db66e5ddb" /></a>
 <a href="https://www.threads.com/@abrarulrhythm" target="blank"><img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/370752c8-14e5-466b-83cf-ea4882d9c5ed" /></a>
+<a href="https://www.linkedin.com/in/abrarulrhythm/" target="blank"><img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/0a3ef898-6e3c-4006-b7a4-6a819bad7ed1" /></a>
 <a href="https://discord.gg/AbrarulRhythm" target="blank"><img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/5e2b4ba4-321d-482e-b379-277410536323" /></a>
 </p>
 
