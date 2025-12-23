@@ -10,9 +10,9 @@ I work with the MERN stack to develop full-stack web applications that are both 
 <h3 align="left">Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!-- [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/) -->
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<!-- [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/) -->
 
 <h3 align="left">CSS Frameworks & Libraries:</h3>
 
