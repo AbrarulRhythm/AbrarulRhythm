@@ -10,7 +10,7 @@ I work with the MERN stack to develop full-stack web applications that are both 
 <h3 align="left">Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+<!-- [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/) -->
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -29,7 +29,7 @@ I work with the MERN stack to develop full-stack web applications that are both 
 <h3 align="left">Database & Model:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+<!-- [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) -->
 
 <h3 align="left">Deployment Platform:</h3>
 
