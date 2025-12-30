@@ -66,6 +66,8 @@ I work with the MERN stack to develop full-stack web applications that are both 
 
 | Top Languages | GitHub Stats |
 |:---:|:---:|
-|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarulrhythm&show_icons=true&locale=en&layout=compact" alt="abrarulrhythm" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarulrhythm&show_icons=true&locale=en" alt="abrarulrhythm" /></p>
+|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarulrhythm&show_icons=true&locale=en&layout=compact" alt="abrarulrhythm" /></p> | ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AbrarulRhythm&theme=dark&border_width=0&border_radius=4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarulrhythm&label=Profile%20views&color=0e75b6&style=flat" alt="abrarulrhythm" /> </p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarulrhythm&show_icons=true&locale=en" alt="abrarulrhythm" /></p> -->
