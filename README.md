@@ -40,6 +40,7 @@ I work with the MERN stack to develop full-stack web applications that are both 
 <h3 align="left">Design</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h3 align="left">Tools & Technologies:</h3>
 
